@@ -13,9 +13,7 @@
 
 **配置好环境好可直接运行detect.py，若可以跑通可以进行下一步**
 
-![](/home/jh/图片/截图/1.png)
-
-
+![](https://github.com/Sunstroperao/yolov7/blob/master/figure/1.png)
 
 ## 2.数据集转转换：voc格式数据集转换成yolo格式
 
